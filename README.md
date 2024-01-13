@@ -1,9 +1,8 @@
-<h1 align="center">Hello! I'm Lydia</h1>
-<h3 align="center">Mathematics student at the University of Waterloo</h3>
+<h1 align="center">😸 Hello! I'm Lydia</h1>
+<h3 align="center">📚 I study math at the University of Waterloo</h3>
 
-- 🌱 I’m currently learning: **Backend web development (Express, Node, Django), Languages (C/C++), Cloud computing (Azure)**
+- 💻 I’m currently learning: **Backend web development (Express, Node, Django), Languages (C/C++), Cloud computing (Azure)**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
