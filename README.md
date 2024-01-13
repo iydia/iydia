@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Lydia 😸</h1>
+<h1 align="center">Hello! I'm Lydia</h1>
 <h3 align="center">Mathematics student at the University of Waterloo</h3>
 
 - 🌱 I’m currently learning: **Backend web development (Express, Node, Django), Languages (C/C++), Cloud computing (Azure)**
