@@ -2,7 +2,7 @@
 
 📚 I study Mathematics at the University of Waterloo
 
-💻 I’m currently learning: **Backend web development (Express, Node, Django), Languages (C/C++), Cloud computing (Azure)**
+💻 I’m currently learning: **Languages (C/C++), Data manipulation (SQL/postgreSQL, pandas), Cloud computing (Azure)**
 
 <p align="left"></p>
 
