@@ -2,7 +2,7 @@
 
 📚 I study Mathematics at the University of Waterloo
 
-💻 I’m currently learning: **Languages (C/C++), Web development (React, Express, Node), Data manipulation (SQL, pandas)**
+💻 I’m currently learning: **Languages (C/C++), Web development (React, Express, Node), Data manipulation (SQL, Pandas)**
 
 <p align="left"></p>
 
