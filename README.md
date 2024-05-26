@@ -1,8 +1,8 @@
 <h2 align="center">Hello! I'm Lydia</h2>
 
-📚 I study Mathematics at the University of Waterloo
+📚 I study Data Science at the University of Waterloo
 
-💻 I’m currently learning: **Languages (C/C++), Web development (React, Express, Node), Data manipulation (SQL, Pandas)**
+💻 I’m currently learning: **OOP (C/C++), Data Manipulation (Python, SQL, R)**
 
 <p align="left"></p>
 
