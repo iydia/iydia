@@ -1,8 +1,10 @@
 <h2 align="center">Hello! I'm Lydia</h2>
 
-📚 I study Data Science at the University of Waterloo
+📚 I study **Data Science** at the University of Waterloo
 
-💻 I’m currently learning: **OOP (C/C++), Data Manipulation (Python, SQL, R)**
+💻 I’m currently learning: **OOP (C++), Data Analysis (SQL)**
+
+🏢 I’ll be joining Advantage Group International as a Junior Software Engineer this winter, working with Java, SOAP, and Selenium on the CI/CD pipeline.
 
 <p align="left"></p>
 
