@@ -4,7 +4,7 @@
 
 💻 I’m currently learning: **OOP (C++), Data Analysis (SQL)**
 
-🏢 I’ll be joining Advantage Group International as a Junior Software Engineer this winter, working with Java, SOAP, and Selenium on the CI/CD pipeline.
+🏢 I’ll be joining Advantage Group International as a Junior Software Engineer this winter, working with Java, Spring Boot, SOAP, and Selenium on the CI/CD pipeline.
 
 <p align="left"></p>
 
