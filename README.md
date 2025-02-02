@@ -2,9 +2,9 @@
 
 📚 I study **Data Science** at the University of Waterloo
 
-💻 I’m currently learning: **OOP (C++), Data Analysis (SQL)**
+💻 Currently building fun projects to enhance everyday life...
 
-🏢 I’ll be joining Advantage Group International as a Junior Software Engineer this winter, working with Java, Spring Boot, SOAP, and Selenium on the CI/CD pipeline.
+🏢 I’m interning at Advantage Group International as a Junior Software Dev. this winter, working with Java (Spring Boot) on the CI/CD pipeline.
 
 <p align="left"></p>
 
