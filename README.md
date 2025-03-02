@@ -2,9 +2,7 @@
 
 📚 I study **Data Science** at the University of Waterloo
 
-💻 Currently building fun projects to enhance everyday life...
-
-🏢 I’m interning at Advantage Group International as a Junior Software Dev. this winter, working with Java (Spring Boot) on the CI/CD pipeline.
+💻 Building fun projects to enhance everyday life...
 
 <p align="left"></p>
 
