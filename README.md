@@ -4,4 +4,4 @@
 
 Hi there, I'm Lydia, a **Data Science** student at the University of Waterloo. 
 
-I am a mathematician at heart, and I apply that logic to the software I write. I study computer science in an endeavour to build lasting solutions to complex problems. 
+I am a mathematician at heart, and I apply that logic to the software I write. 
